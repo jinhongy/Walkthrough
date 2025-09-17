@@ -24,7 +24,7 @@ Simultaneously, **construct the UI using the native patterns** of the host OS to
 
 Designing for developers demands a **keyboard-first** experience. Developers operate primarily from the keyboard, by keeping developers on the keyboard, we not only preserve their focus and improve efficiency, but also enhance accessibility and streamline automation workflows. For example, when Gemini offers code suggestions, immediately display visible keyboard shortcuts to accept, dismiss, or navigate them, encouraging quick adoption and seamless interaction.
 
-|<img src="/images/keyboard do.png" alt="Consistent UI example" width="250"> |<img src="/images/keyboard don't.png" alt="Consistent UI example" width="250"> |
+|<img src="/images/Keyboard do.png" alt="Consistent UI example" width="250"> |<img src="/images/Keyboard don't.png" alt="Consistent UI example" width="250"> |
 | :--- | :--- | 
 | ✅ Display keyboard shortcuts directly in menus and tooltips to encourage learning and adoption  | ❌  Don’t force users to navigate deep menus for common actions. | 
 
