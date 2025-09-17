@@ -15,7 +15,7 @@ Simultaneously, **construct the UI using the native patterns** of the host OS to
 
 <br>
 
-|<img src="https://drive.google.com/file/d/1ecrUC7-lAlqkNWrJY6W8iKAqLXswV72n/view?usp=drive_link&resourcekey=0-Kt8hBAc_G1SH6p2JCM-Z-g" alt="Consistent UI example" width="250"> |<img src="path/to/your_consistent_image.png" alt="Consistent UI example" width="250"> |<img src="path/to/your_consistent_image.png" alt="Consistent UI example" width="250"> |
+|<img src="/images/Simplicity do.png" alt="Consistent UI example" width="250"> |<img src="/images/Simplicity don't.png" alt="Consistent UI example" width="250"> |<img src="/images/coherency don't 2.png" alt="Consistent UI example" width="250"> |
 | :--- | :--- | :--- |
 | ✅ Prioritize familiar IDE interaction patterns developers already know. | ❌   Don't replace a standard component with a custom design without compelling reason. | ❌  Do not enforce consistency by forcing one platform's UI onto another. |
 
@@ -24,7 +24,7 @@ Simultaneously, **construct the UI using the native patterns** of the host OS to
 
 Designing for developers demands a **keyboard-first** experience. Developers operate primarily from the keyboard, by keeping developers on the keyboard, we not only preserve their focus and improve efficiency, but also enhance accessibility and streamline automation workflows. For example, when Gemini offers code suggestions, immediately display visible keyboard shortcuts to accept, dismiss, or navigate them, encouraging quick adoption and seamless interaction.
 
-|<img src="path/to/your_consistent_image.png" alt="Consistent UI example" width="250"> |<img src="path/to/your_consistent_image.png" alt="Consistent UI example" width="250"> |
+|<img src="/images/keyboard do.png" alt="Consistent UI example" width="250"> |<img src="/images/keyboard don't.png" alt="Consistent UI example" width="250"> |
 | :--- | :--- | 
 | ✅ Display keyboard shortcuts directly in menus and tooltips to encourage learning and adoption  | ❌  Don’t force users to navigate deep menus for common actions. | 
 
@@ -35,6 +35,6 @@ Developers trust systems they understand and can ultimately control. We build th
 
 <br>
 
-|<img src="path/to/your_consistent_image.png" alt="Consistent UI example" width="250"> |<img src="path/to/your_consistent_image.png" alt="Consistent UI example" width="250"> |
+|<img src="/images/Building trust do.png" alt="Consistent UI example" width="250"> |<img src="/images/Building trust don't.png" alt="Consistent UI example" width="250"> |
 | :--- | :--- |
 | ✅  Ensure developers can easily "undo" or "reject" any AI action. | ❌   Provide a black-box AI that gives suggestions without any explanation | 
